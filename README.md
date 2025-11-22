@@ -98,4 +98,4 @@ Income: negative
 Strings instead of numbers
 Expected:
 Program may crash (since validation not added)
-This can be added in future upgrades
+This can be added in future upgrades.
