@@ -37,10 +37,10 @@ More categories or medical tests can be added in future versions.
 
 Component        	                         Description
 
-Python 3.x	                              Main programming language
-Conditional Logic (if/elif)             	Used for decision-making
-Functions                                	To keep code modular and clean
-Console I/O	                              For reading user input and displaying output
+Python 3.x	                         -     Main programming language
+Conditional Logic (if/elif)          -   	Used for decision-making
+Functions                            -   	To keep code modular and clean
+Console I/O	                         -    For reading user input and displaying output
 
 4. Steps to Install & Run the Project
 
