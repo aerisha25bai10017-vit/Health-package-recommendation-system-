@@ -2,9 +2,9 @@
 
 Access to healthcare varies greatly among people based on their income level and age group. Many individuals are unaware of which health check-up package suits their financial condition and medical needs.
 There is no simple automated system that:
-Understands a person’s income range
-Considers their age
-Suggests an appropriate, affordable, and relevant health check-up package
+1.Understands a person’s income range
+2.Considers their age
+3.Suggests an appropriate, affordable, and relevant health check-up package
 To solve this problem, the Health Package Recommendation System automatically recommends the right medical package for poor, middle-class, and upper-class citizens, with special attention to senior citizens (age ≥ 60).
 
 📌 Scope of the Project
