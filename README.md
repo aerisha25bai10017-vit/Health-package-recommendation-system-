@@ -4,9 +4,9 @@
 The Health Package Recommendation System is a Python-based program that recommends suitable medical check-up packages based on a person’s age and income group.
 Different groups of society (Poor, Middle-Class, and Upper-Class) have different healthcare needs and financial capabilities. This project uses simple conditional logic to classify users into these groups and suggest the most beneficial and affordable health package for them.
 The system ensures:
-Easy classification
-Accessible health guidance
-Affordable package suggestions for all categories
+a.Easy classification
+b.Accessible health guidance
+c.Affordable package suggestions for all age and income groups.
 This project can be used in healthcare kiosks, camps, or awareness programs.
 
 2. Features
@@ -37,10 +37,10 @@ More categories or medical tests can be added in future versions.
 
 Component        	                         Description
 
-Python 3.x	                         -     Main programming language
-Conditional Logic (if/elif)          -   	Used for decision-making
-Functions                            -   	To keep code modular and clean
-Console I/O	                         -    For reading user input and displaying output
+a.Python 3.x	                          -    Main programming language
+b.Conditional Logic (if/elif)            -  	Used for decision-making
+c.Functions                              -   To keep code modular and clean
+d.Console I/O	                          -   For reading user input and displaying output
 
 4. Steps to Install & Run the Project
 
